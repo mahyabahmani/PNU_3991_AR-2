@@ -5,17 +5,20 @@
 ### پروین حاجت پور
 --------------
 # تمرین ها
+---------------
+1. [تمرین فردی]
+     1. [Convex-Hull](https://www.aparat.com/v/3WB7c)
+     
+-------------------
+
 1. [G-A03تمرینات گروهی ]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Bubble sort](https://aparat.com/v/jk90Q)
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
     
  ------------------
- 1. [تمرین فردی]
-     1. [Convex-Hull](https://www.aparat.com/v/3WB7c)
+ 
     
---------------------
-
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Advanced%20Algorithm/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
