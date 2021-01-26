@@ -12,18 +12,8 @@
 - [javascript Certificate](https://github.com/parvinhajatpour/Certificates/blob/main/java%20script.jpg)
 - [jlord patchwork](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Patchwork.jpg.png)
   
-  ---------------
->ارزیابی ها
-
-## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_CV_CheckList_AR_3991.pdf)
-
--[ارزیابی بخش عمومی ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_GeneralSection_CheckList_AR_3991.pdf)
-
-## ارزیابی دروس کارشناسی ارشد
--[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Advanced%20Algorithm/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
-
-------------------
+  
+  ------------------
 # تمرین ها
 ---------------
 1. [تمرین فردی]
@@ -35,6 +25,20 @@
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Bubble sort](https://aparat.com/v/jk90Q)
     1. [Ford-fulkerson](https://mirsalarinarjes.github.io/ford-fulkerson/)
+ 
+ 
+ ---------------
+>ارزیابی ها
+
+## ارزیابی بخش عمومی 
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_CV_CheckList_AR_3991.pdf)
+
+-[ارزیابی بخش عمومی ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_GeneralSection_CheckList_AR_3991.pdf)
+
+## ارزیابی دروس کارشناسی ارشد
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Advanced%20Algorithm/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+
+
     
  ------------------
 # گروه ها
