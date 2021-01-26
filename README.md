@@ -24,7 +24,19 @@
 -[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Advanced%20Algorithm/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 ------------------
+# تمرین ها
+---------------
+1. [تمرین فردی]
+     1. [Convex-Hull](https://www.aparat.com/v/3WB7c)
+     
+-------------------
 
+1. [G-A03تمرینات گروهی ]
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+    1. [Bubble sort](https://aparat.com/v/jk90Q)
+    1. [Ford-fulkerson](https://mirsalarinarjes.github.io/ford-fulkerson/)
+    
+ ------------------
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
@@ -42,10 +54,6 @@
 
 [1115025_01_166   الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
-[1115023_01_166 سیستم عامل پیشرفته ]
-<br>
-[1115024_71_166 پایگاه داده پیشرفته ]
-<br>
 
 --------------
 
@@ -62,14 +70,17 @@
     <th>روز</th>
   </tr>
    <tr>
-    <th>سیستم عامل پیشرفته</th>
     <th></th>
     <th></th>
     <th></th>
-    <th>پایگاه داده پیشرفته</th>
+    <th></th>
+    <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته<br>دکتر رضوی</th>
     <th>چهارشنبه</th>
   </tr>
 </table>
 
 --------------
+
+
+
